@@ -5,6 +5,7 @@ npm run dev
 
 ### Sanity Project Run Command
 cd sanity-project
+
 npm run dev
 
 ### What is Sanity?
