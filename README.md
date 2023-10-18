@@ -10,7 +10,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
+
 Sanity Project Run Command
 cd sanity-project
 npm run dev
@@ -20,3 +20,5 @@ Sanity is a modern headless CMS (Content Management System). Sanity uses structu
 
 ###### for more read visit on this official website.
 https://www.sanity.io/
+
+```
