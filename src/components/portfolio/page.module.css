@@ -1,0 +1,49 @@
+.mainTitle {
+    font-size: 100px;
+}
+
+.selectTitle {
+    margin: 20px 0px;
+}
+
+.items {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.item {
+    border: 1px solid #595959;
+    border-radius: 5px;
+    width: 100%;
+    height: 200px;
+    position: relative;
+    background-size: cover !important;
+}
+
+.title {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.desc {
+    position: absolute;
+    /* right: 20px; */
+    bottom: 20px;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.container {
+    max-width: 1366px;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 0 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
